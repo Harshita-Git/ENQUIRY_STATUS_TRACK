@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Enquiry Status Tracking</string>
+    <string-array name="Spinner_items">
+        <item>SELECT YOUR ROLE</item>
+        <item>ADMIN</item>
+        <item>STAFF</item>
+        <item>MD</item>
+        <item>DIRECTOR</item>
+        <item>ACCOUNTS</item>
+    </string-array>
+
+    <string name="choose_login_type">Choose Login Type</string>
+    <string name="login_as_staff">Staff</string>
+    <string name="login_as_admin">Admin</string>
+    <string name="go_to_login_type">Back to login type</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_here">Login Here</string>
+    <string name="small_description">Enquiry Management System</string>
+
+
+    <string-array name="senqsrc">
+        <item>Select Source</item>
+        <item>Telephone</item>
+        <item>Website</item>
+        <item>Email</item>
+        <item>Whatsapp</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="sallotedprs">
+        <item>Select Source</item>
+        <item>abc</item>
+        <item>mno</item>
+        <item>pqr</item>
+        <item>xyz</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="title_activity_dashboard">Dashboard</string>
+
+
+
+    <string-array name="enquirysource">
+        <item>Select Enquiry Source</item>
+        <item>Telephone</item>
+        <item>Mail</item>
+        <item>Whatsapp</item>
+        <item>Website</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="allotedperson">
+        <item>Select Alloted Person</item>
+        <item>abc</item>
+        <item>pqr</item>
+        <item>mno</item>
+        <item>xyz</item>
+    </string-array>
+    <string-array name="enquirystatus">
+        <item>Select Enquiry Status</item>
+        <item>Received</item>
+        <item>Placed</item>
+        <item>Completed</item>
+    </string-array>
+
+    <string-array name="updatebyprs">
+        <item>Updated by Person</item>
+        <item>abc</item>
+        <item>pqr</item>
+        <item>mno</item>
+        <item>xyz</item>
+    </string-array>
+
+</resources>
